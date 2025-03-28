@@ -25,5 +25,7 @@
   button{
     background-color: black;
     color: white;
+    border-radius: 20px;
+    font-size: 20px;
   }
 </style>
